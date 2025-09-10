@@ -1,0 +1,78 @@
+# =========================================
+# Unity Project .gitattributes
+# Normalise les fins de ligne et protège les binaires
+# =========================================
+# --- Scripts & Text (toujours en LF) ---
+*.cs        text eol=lf
+*.shader    text eol=lf
+*.cginc     text eol=lf
+*.hlsl      text eol=lf
+*.compute   text eol=lf
+*.glsl      text eol=lf
+*.json      text eol=lf
+*.xml       text eol=lf
+*.yaml      text eol=lf
+*.yml       text eol=lf
+*.txt       text eol=lf
+*.md        text eol=lf
+*.meta      text eol=lf
+*.asmdef    text eol=lf
+*.log       text eol=lf
+*.gradle    text eol=lf
+*.properties text eol=lf
+# --- Unity Scenes & Prefabs ---
+# Ce sont des fichiers YAML texte => garder en LF
+*.unity     text eol=lf
+*.prefab    text eol=lf
+*.mat       text eol=lf
+*.anim      text eol=lf
+*.controller text eol=lf
+*.overrideController text eol=lf
+*.mask      text eol=lf
+*.physicMaterial text eol=lf
+# --- Images & Binary files (ne pas toucher !) ---
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg      binary
+*.tga       binary
+*.tif       binary
+*.tiff      binary
+*.bmp       binary
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.gif       binary
+# --- Audio ---
+*.mp3       binary
+*.ogg       binary
+*.wav filter=lfs diff=lfs merge=lfs -text
+# --- 3D Models ---
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.dae       binary
+*.obj       binary
+*.blend     binary
+*.3ds       binary
+*.dxf       binary
+# --- Video ---
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov       binary
+*.avi       binary
+# --- Compiled code & libs ---
+*.dll       binary
+*.exe       binary
+*.pdb       binary
+*.so        binary
+*.dylib     binary
+*.a         binary
+*.lib       binary
+# --- Archives ---
+*.zip       binary
+*.rar       binary
+*.7z        binary
+*.tar       binary
+*.gz        binary
+# --- Unity cache / build (ne devrait pas être versionné normalement) ---
+[Ll]ibrary/*      binary
+[Tt]emp/*         binary
+[Bb]uild/*        binary
+[Bb]uilds/*       binary
+[Ll]ogs/*         binary
+[Mm]emoryCaptures/* binary
