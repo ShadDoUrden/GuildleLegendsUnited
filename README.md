@@ -21,5 +21,6 @@ You can find formulas here:
 </div>
 
 <p align="center">
-  <img src="./assets/ShadDoUrden_signature.svg" alt="ShadDoUrden" style="max-width:100%;width:560px;">
+  <img src="./Assets/ShadDoUrden_signature.svg" alt="ShadDoUrden" style="max-width:100%;width:560px;">
 </p>
+
