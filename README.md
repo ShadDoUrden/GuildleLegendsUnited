@@ -1,187 +1,130 @@
 <div align="center">
-  <h1>Guidle: Legends United Game Datas v0.1</h1>
+  <h1>"Guidle: Legends United" Game Datas v0.1</h1>
   <h5>A Guidle related repository</h5>
 </div>
+# 📜 Licence Créative Confiance v1.0
 
-<h2 style="color:red; text-align:center;">
-  <b>10/09/2025 :</b> You can use the resources as long as a link to my GitHub (with my name) is visible in the game menu <i>(e.g., in the Staff section)</i>.
-</h2>
+**Created by ShadDoUrden — 2025**
+*Use freely, share kindly.*
 
-**About this repository**  
-This repository is my storage bank for creating the game. **All resources are not my creation.**  
-Please note that certain "**Software**" and "**Music**" are licensed and not royalty-free.  
-For this reason, I will list below the licenses you must purchase to use these resources.  
-Any use without respecting these licenses will be against copyright law  
-and could lead to prosecution, for which I am not responsible.  
+## 💌 How to contribute
 
-You can find link here: https://mega.nz/folder/sApTTIxT#2P_JUlRxkRlePmuELu35aQ
+If you use these resources and your project becomes profitable, you can support the original project via:
 
-<div align="center">
-  <strong>Licenses:</strong>
-</div>
-Licence Créative Confiance v1.0
+* [PayPal](https://www.paypal.com/paypalme/Shaddourden?country.x=FR&locale.x=fr_FR)
+* [Patreon](https://www.patreon.com/c/ShadDoUrden)
+* [Ko-fi](https://ko-fi.com/shaddourden)
+  Use whatever works best for you. Thank you for your support and creativity!
 
-Created by ShadDoUrden — 2025
-Use freely, share kindly.
+## 🌐 Languages available:
 
-Languages available: 🇺🇸 English (main) 🇧🇷 Brazilian Portuguese 🇩🇪 German 🇷🇺 Russian 🇫🇷 French 🇪🇸 Spanish 🇵🇱 Polish 🇮🇹 Italian 🇨🇳 Chinese (Simplified) 🇮🇳 Hindi (India) 🇰🇷 Korean 🇯🇵 Japanese
-
+🇺🇸 English (main) | 🇧🇷 Brazilian Portuguese | 🇩🇪 German | 🇷🇺 Russian | 🇫🇷 French | 🇪🇸 Spanish | 🇵🇱 Polish | 🇮🇹 Italian | 🇨🇳 Chinese (Simplified) | 🇮🇳 Hindi (India) | 🇰🇷 Korean | 🇯🇵 Japanese
 
 ---
 
-🇺🇸 English Version (Main Reference)
+## 🇺🇸 English Version (Main Reference)
 
-You are free to use, copy, modify, and distribute this project, including code and assets, for any purpose. You may create derivative works or new projects based on this.
-
-We ask that if your derivative project generates significant revenue, you consider giving back a voluntary contribution to acknowledge and support the original project. This is not a legal requirement, but a community-driven, friendly request.
-
-You must always credit ShadDoUrden as the original creator.
-No warranty is provided; use at your own risk.
-
+**Usage:** You are free to use, copy, modify, and distribute this project, including code and assets, for any purpose. You may create derivative works or new projects based on this.
+**Revenue:** If your derivative project generates significant revenue, please consider giving back a voluntary contribution to acknowledge and support the original project. This is a community-driven **trust agreement** between you and the creator, not a legal requirement.
+**Credit:** Always credit **ShadDoUrden** as the original creator.
+**Disclaimer:** No warranty is provided; use at your own risk.
 
 ---
 
-🇧🇷 Português (Brasil)
+## 🇧🇷 Português (Brasil)
 
-Você é livre para usar, copiar, modificar e distribuir este projeto, incluindo código e recursos, para qualquer finalidade. Você pode criar trabalhos derivados ou novos projetos baseados neste.
-
-Pedimos que, se seu projeto derivado gerar receita significativa, considere devolver uma contribuição voluntária para reconhecer e apoiar o projeto original. Isto não é uma exigência legal, mas um pedido amigável da comunidade.
-
-Você deve sempre creditar ShadDoUrden como o criador original.
-Nenhuma garantia é fornecida; use por sua conta e risco.
-
+**Uso:** Você é livre para usar, copiar, modificar e distribuir este projeto, incluindo código e recursos, para qualquer finalidade. Você pode criar trabalhos derivados ou novos projetos baseados neste.
+**Receita:** Se seu projeto derivado gerar receita significativa, considere devolver uma contribuição voluntária para reconhecer e apoiar o projeto original. Este é um **acordo de confiança** entre você e o criador, não uma obrigação legal.
+**Crédito:** Sempre credite **ShadDoUrden** como criador original.
+**Aviso:** Nenhuma garantia; use por sua conta e risco.
 
 ---
 
-🇩🇪 Deutsch
+## 🇩🇪 Deutsch
 
-Sie dürfen dieses Projekt, einschließlich Code und Assets, frei verwenden, kopieren, modifizieren und weitergeben. Sie können abgeleitete Werke oder neue Projekte darauf basierend erstellen.
-
-Wir bitten Sie, wenn Ihr abgeleitetes Projekt nennenswerte Einnahmen generiert, eine freiwillige Unterstützung zu leisten, um das Originalprojekt zu würdigen und zu unterstützen. Dies ist keine gesetzliche Verpflichtung, sondern eine freundliche Bitte der Community.
-
-Sie müssen immer ShadDoUrden als ursprünglichen Ersteller nennen.
-Keine Garantie; Nutzung auf eigenes Risiko.
-
+**Verwendung:** Sie dürfen dieses Projekt, einschließlich Code und Assets, frei verwenden, kopieren, modifizieren und weitergeben. Sie können abgeleitete Werke oder neue Projekte darauf basierend erstellen.
+**Einnahmen:** Wenn Ihr abgeleitetes Projekt nennenswerte Einnahmen generiert, leisten Sie bitte freiwillig einen Beitrag, um das Originalprojekt zu unterstützen. Dies ist eine **Vertrauensvereinbarung** zwischen Ihnen und dem Ersteller, keine gesetzliche Pflicht.
+**Kredit:** Immer **ShadDoUrden** als ursprünglichen Ersteller nennen.
+**Haftungsausschluss:** Keine Garantie; Nutzung auf eigenes Risiko.
 
 ---
 
-🇷🇺 Russian
+## 🇷🇺 Russian
 
-Вы можете свободно использовать, копировать, модифицировать и распространять этот проект, включая код и ресурсы, для любых целей. Вы можете создавать производные работы или новые проекты на его основе.
-
-Если ваш производный проект приносит значительный доход, мы просим вас рассмотреть возможность добровольного взноса для поддержки оригинального проекта. Это не юридическое требование, а дружественный запрос сообщества.
-
-Вы должны всегда указывать ShadDoUrden как оригинального автора.
-Гарантии отсутствуют; используйте на свой страх и риск.
-
+**Использование:** Вы можете свободно использовать, копировать, модифицировать и распространять этот проект, включая код и ресурсы, для любых целей. Можно создавать производные работы или новые проекты.
+**Доход:** Если ваш проект приносит значительный доход, рассмотрите возможность добровольного взноса для поддержки оригинального проекта. Это **доверительное соглашение** между вами и создателем, а не юридическое требование.
+**Кредит:** Всегда указывайте **ShadDoUrden** как оригинального автора.
+**Отказ от ответственности:** Гарантии нет; используйте на свой страх и риск.
 
 ---
 
-🇫🇷 Français
+## 🇫🇷 Français
 
-Vous êtes libre d’utiliser, copier, modifier et distribuer ce projet, y compris le code et les ressources, pour n’importe quel usage. Vous pouvez créer des œuvres dérivées ou de nouveaux projets basés sur celui-ci.
-
-Si votre projet dérivé génère des revenus significatifs, nous vous invitons à contribuer volontairement afin de soutenir et reconnaître le projet original. Ceci n’est pas une obligation légale, mais un appel amical de la communauté.
-
-Vous devez toujours créditer ShadDoUrden en tant que créateur original.
-Aucune garantie n’est fournie; utilisez à vos risques et périls.
-
+**Usage :** Vous êtes libre d’utiliser, copier, modifier et distribuer ce projet, y compris le code et les ressources, pour n’importe quel usage. Vous pouvez créer des œuvres dérivées ou de nouveaux projets basés sur celui-ci.
+**Revenus :** Si votre projet dérivé génère des revenus significatifs, nous vous invitons à contribuer volontairement afin de soutenir et reconnaître le projet original. Ceci constitue un **contrat de confiance** entre vous et le créateur, et non une obligation légale.
+**Crédit :** Toujours créditer **ShadDoUrden** comme créateur original.
+**Avertissement :** Aucune garantie ; utilisez à vos risques et périls.
 
 ---
 
-🇪🇸 Spanish
+## 🇪🇸 Spanish
 
-Puede usar, copiar, modificar y distribuir libremente este proyecto, incluyendo código y recursos, para cualquier propósito. Puede crear trabajos derivados o nuevos proyectos basados en este.
-
-Si su proyecto derivado genera ingresos significativos, le pedimos que considere realizar una contribución voluntaria para apoyar y reconocer el proyecto original. Esto no es un requisito legal, sino una solicitud amistosa de la comunidad.
-
-Debe acreditar siempre a ShadDoUrden como creador original.
-No se ofrece ninguna garantía; úselo bajo su propio riesgo.
-
+**Uso:** Puede usar, copiar, modificar y distribuir libremente este proyecto, incluyendo código y recursos, para cualquier propósito. Puede crear trabajos derivados o nuevos proyectos.
+**Ingresos:** Si su proyecto derivado genera ingresos significativos, considere hacer una contribución voluntaria para apoyar y reconocer el proyecto original. Esto constituye un **acuerdo de confianza** entre usted y el creador, no una obligación legal.
+**Crédito:** Siempre acreditar a **ShadDoUrden** como creador original.
+**Aviso:** No se ofrece ninguna garantía; úselo bajo su propio riesgo.
 
 ---
 
-🇵🇱 Polish
+## 🇵🇱 Polish
 
-Masz prawo do swobodnego używania, kopiowania, modyfikowania i rozpowszechniania tego projektu, w tym kodu i zasobów, w dowolnym celu. Możesz tworzyć prace pochodne lub nowe projekty oparte na tym projekcie.
-
-Prosimy, aby w przypadku uzyskania znaczących przychodów z projektu pochodnego, rozważyć dobrowolny wkład w celu wsparcia i uznania oryginalnego projektu. Nie jest to wymóg prawny, lecz przyjazna prośba społeczności.
-
-Zawsze należy przypisywać autorstwo ShadDoUrden.
-Brak gwarancji; używaj na własne ryzyko.
-
+**Użycie:** Masz prawo do swobodnego używania, kopiowania, modyfikowania i rozpowszechniania tego projektu, w tym kodu i zasobów, w dowolnym celu. Możesz tworzyć prace pochodne lub nowe projekty.
+**Przychody:** Jeśli projekt pochodny przynosi znaczące dochody, rozważ dobrowolny wkład na wsparcie oryginału. Jest to **umowa zaufania** między Tobą a twórcą, nie obowiązek prawny.
+**Kredyt:** Zawsze przypisuj autorstwo **ShadDoUrden**.
+**Zastrzeżenie:** Brak gwarancji; używaj na własne ryzyko.
 
 ---
 
-🇮🇹 Italian
+## 🇮🇹 Italian
 
-Sei libero di utilizzare, copiare, modificare e distribuire questo progetto, inclusi codice e risorse, per qualsiasi scopo. Puoi creare opere derivate o nuovi progetti basati su questo.
-
-Se il tuo progetto derivato genera entrate significative, ti invitiamo a considerare un contributo volontario per sostenere e riconoscere il progetto originale. Non è un obbligo legale, ma una richiesta amichevole della comunità.
-
-Devi sempre attribuire la paternità a ShadDoUrden.
-Nessuna garanzia; utilizzo a tuo rischio.
-
+**Uso:** Sei libero di utilizzare, copiare, modificare e distribuire questo progetto, inclusi codice e risorse, per qualsiasi scopo. Puoi creare opere derivate o nuovi progetti.
+**Entrate:** Se il tuo progetto derivato genera entrate significative, considera un contributo volontario per sostenere e riconoscere il progetto originale. Questo è un **accordo di fiducia** tra te e il creatore, non un obbligo legale.
+**Credito:** Sempre attribuire a **ShadDoUrden** come creatore originale.
+**Disclaimer:** Nessuna garanzia; utilizzo a tuo rischio.
 
 ---
 
-🇨🇳 Chinese (Simplified)
+## 🇨🇳 Chinese (Simplified)
 
-您可以自由使用、复制、修改和分发此项目，包括代码和资源，用于任何目的。您可以基于此创建衍生作品或新项目。
-
-如果您的衍生项目产生了可观的收入，请考虑自愿贡献以支持和认可原项目。这不是法律要求，而是社区友好的请求。
-
-您必须始终注明 ShadDoUrden 为原作者。
-不提供任何保证；请自行承担风险。
-
+**使用:** 您可以自由使用、复制、修改和分发此项目，包括代码和资源，用于任何目的。可以创建衍生作品或新项目。
+**收入:** 如果衍生项目产生可观收入，请考虑自愿贡献以支持原项目。这是您与创作者之间的**信任协议**，不是法律要求。
+**署名:** 请始终注明 **ShadDoUrden** 为原作者。
+**免责声明:** 不提供任何保证；请自行承担风险。
 
 ---
 
-🇮🇳 Hindi (India)
+## 🇮🇳 Hindi (India)
 
-आप इस प्रोजेक्ट का उपयोग, कॉपी, संशोधन और वितरण किसी भी उद्देश्य के लिए स्वतंत्र रूप से कर सकते हैं, जिसमें कोड और संसाधन शामिल हैं। आप इसके आधार पर व्युत्पन्न कार्य या नए प्रोजेक्ट बना सकते हैं।
-
-यदि आपका व्युत्पन्न प्रोजेक्ट महत्वपूर्ण राजस्व उत्पन्न करता है, तो कृपया मूल प्रोजेक्ट का समर्थन और सम्मान करने के लिए स्वेच्छा से योगदान देने पर विचार करें। यह कानूनी आवश्यकता नहीं है, बल्कि समुदाय की मैत्रीपूर्ण अपील है।
-
-आपको हमेशा ShadDoUrden को मूल रचनाकार के रूप में श्रेय देना चाहिए।
-कोई वारंटी नहीं; अपने जोखिम पर उपयोग करें।
-
+**उपयोग:** आप इस प्रोजेक्ट का उपयोग, कॉपी, संशोधन और वितरण किसी भी उद्देश्य के लिए स्वतंत्र रूप से कर सकते हैं। इसके आधार पर व्युत्पन्न कार्य या नए प्रोजेक्ट बना सकते हैं।
+**राजस्व:** यदि आपका प्रोजेक्ट महत्वपूर्ण राजस्व उत्पन्न करता है, तो कृपया मूल प्रोजेक्ट का समर्थन करने के लिए स्वैच्छिक योगदान देने पर विचार करें। यह आपके और निर्माता के बीच **विश्वास समझौता** है, कानूनी आवश्यकता नहीं।
+**क्रेडिट:** हमेशा **ShadDoUrden** को मूल रचनाकार के रूप में श्रेय दें।
+**अस्वीकरण:** कोई गारंटी नहीं; अपने जोखिम पर उपयोग करें।
 
 ---
 
-🇰🇷 Korean
+## 🇰🇷 Korean
 
-이 프로젝트(코드 및 자산 포함)를 자유롭게 사용, 복사, 수정 및 배포할 수 있습니다. 이 프로젝트를 기반으로 파생 작품이나 새로운 프로젝트를 만들 수 있습니다.
-
-파생 프로젝트가 상당한 수익을 올릴 경우, 원작 프로젝트를 인정하고 지원하기 위해 자발적으로 기여하는 것을 고려해 주세요. 이는 법적 요구사항이 아니라, 커뮤니티의 친근한 요청입니다.
-
-항상 ShadDoUrden를 원작자로 명시해야 합니다.
-보증 없음; 자신의 책임 하에 사용하세요.
-
+**사용:** 이 프로젝트(코드 및 자산 포함)를 자유롭게 사용, 복사, 수정 및 배포할 수 있습니다. 파생 작품이나 새 프로젝트도 만들 수 있습니다.
+**수익:** 파생 프로젝트가 상당한 수익을 올릴 경우, 원작 프로젝트를 지원하기 위해 자발적인 기여를 고려하세요. 이것은 제작자와 사용자 간의 **신뢰 계약**이며 법적 요구사항이 아닙니다.
+**크레딧:** 항상 **ShadDoUrden**를 원작자로 명시하세요.
+**면책:** 보증 없음; 사용은 본인 책임.
 
 ---
 
-🇯🇵 Japanese
+## 🇯🇵 Japanese
 
-このプロジェクト（コードおよびアセットを含む）は、自由に使用、コピー、修正、配布できます。このプロジェクトを基に派生作品や新しいプロジェクトを作成することも可能です。
-
-派生プロジェクトが大きな収益を上げた場合、オリジナルプロジェクトを認識・支援するために、自発的な寄付を検討してください。これは法的義務ではなく、コミュニティからの友好的なお願いです。
-
-常に ShadDoUrden をオリジナル作成者としてクレジットしてください。
-保証はありません。自己責任で使用してください。
-
-
----
-
-💌 How to contribute / Comment contribuer
-
-If you use these resources and your project becomes profitable, you can support the original project via donations or crowdfunding at:
-https://patreon.com/ChoiceHaveConsequenceOverhaul
-or
-https://paypal.me/Shaddourden?country.x=FR&locale.x=fr_FR
-
-Merci de votre soutien et de votre créativité !
-Thank you for your support and creativity!
+**使用:** このプロジェクト（コード・アセット含む）は自由に使用、コピー、修正、配布できます。派生作品や新しいプロジェクトも作成可能です。
+**収益:** 派生プロジェクトが収益を上げた場合、オリジナルプロジェクトを支援するために自発的な寄付を検討してください。これはクリエイターと利用者の間の**信頼契約**であり、法的義務
 
 
 <p align="center">
