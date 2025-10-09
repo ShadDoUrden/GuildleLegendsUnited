@@ -1,3 +1,6 @@
+🌐 Choose your language:
+[English](Readme.md) | [Français](Readme.fr.md) | [Deutsch](Readme.de.md) | [Español](Readme.es.md) | [Português (BR)](Readme.br.md) | [Русский](Readme.ru.md) | [日本語](Readme.jp.md) | [한국어](Readme.kr.md) | [中文](Readme.cn.md) | [Italiano](Readme.it.md) | [Polski](Readme.pl.md) | [हिन्दी](Readme.in.md)
+
 # 🎮 文件夹 "Game" — 结构与说明
 
 此文件夹包含 *Guildle Legends United* 的所有**核心游戏资源**。  
@@ -94,3 +97,4 @@ Unity 预制体，用于快速复用：
 
 **为 Guildle Legends United 创建**  
 🧙 *Shad'Do'Urden 的 Unity 开源项目*
+
