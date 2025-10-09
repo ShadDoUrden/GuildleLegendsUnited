@@ -1,3 +1,6 @@
+🌐 Choose your language:
+[English](Readme.md) | [Français](Readme.fr.md) | [Deutsch](Readme.de.md) | [Español](Readme.es.md) | [Português (BR)](Readme.br.md) | [Русский](Readme.ru.md) | [日本語](Readme.jp.md) | [한국어](Readme.kr.md) | [中文](Readme.cn.md) | [Italiano](Readme.it.md) | [Polski](Readme.pl.md) | [हिन्दी](Readme.in.md)
+
 # 🎮 Carpeta "Game" — Estructura y Descripción
 
 Esta carpeta contiene todos los **recursos principales del gameplay** para *Guildle Legends United*.  
@@ -94,3 +97,4 @@ Documentación del juego y notas de diseño:
 
 **Creado para Guildle Legends United**  
 🧙 *Proyecto open-source en Unity por Shad'Do'Urden*
+
