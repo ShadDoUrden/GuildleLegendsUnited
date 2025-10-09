@@ -1,5 +1,5 @@
-🌐 Choose your language:  
-[English](README.md) | [Français](README.fr.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [日本語](README.jp.md)
+🌐 Choose your language:
+[English](README.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Português (BR)](README.br.md) | [Русский](README.ru.md) | [日本語](README.jp.md) | [한국어](README.kr.md) | [中文](README.cn.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [हिन्दी](README.in.md)
 
 # 🎮 Game Folder Overview
 
@@ -97,3 +97,4 @@ Game documentation and design notes:
 
 **Created for Guildle Legends United**  
 🧙 *An open-source Unity adventure project by Shad'Do'Urden*
+
